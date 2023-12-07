@@ -20,7 +20,3 @@ The game can be played in a terminal.
    1. display the correct answer
    2. give the user the option to start the game over again
 Please use whatever best practices you would consider to be important on a serious project. 
-
-If you were training junior developers so that they could step into a serious job oppertunity, what tools, techniques and best practices would you consider to be important? Please demonstrate those.
-
-We encourage testing
