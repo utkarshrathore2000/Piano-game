@@ -19,11 +19,6 @@ The game can be played in a terminal.
 5. The user should be able to "give up". When the user gives up then:
    1. display the correct answer
    2. give the user the option to start the game over again
-
-## What do we look for 
-
-If you were working on a team of devs on a serious code base, then how would you write your code? 
-
 Please use whatever best practices you would consider to be important on a serious project. 
 
 If you were training junior developers so that they could step into a serious job oppertunity, what tools, techniques and best practices would you consider to be important? Please demonstrate those.
